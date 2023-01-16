@@ -6,7 +6,7 @@ function Tinder() {
   return (
     <div className="card-container">
       <div className="card">
-        <video className="video-container" src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" autoPlay muted={muted} onClick={() => setMuted(!muted)} controls playsInline></video> 
+        <video className="video-container" src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" autoPlay muted={muted} onClick={() => setMuted(!muted)} playsInline></video> 
       </div>
     </div>
   );
