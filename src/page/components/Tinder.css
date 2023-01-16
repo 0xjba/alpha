@@ -1,0 +1,23 @@
+.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+  width: 90vw;
+  max-width: 396px;
+  height: 75vh;
+  max-height: 704px;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.04), 8px 8px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 48px;
+}
+
+.video-container {
+  width: 90vw;
+  max-width: 396px;
+  height: 75vh;
+  max-height: 704px;
+  object-fit: cover;
+  border-radius: 48px;
+}

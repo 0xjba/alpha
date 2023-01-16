@@ -1,0 +1,29 @@
+/* HomePage.css */
+
+.home-page {
+    font-family: Arial, sans-serif;
+  }
+  
+  .home-header {
+    background-color: #f5f5f5;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .home-nav {
+    background-color: #ccc;
+    padding: 0.5rem;
+    text-align: center;
+  }
+  
+  .home-nav a {
+    color: #333;
+    text-decoration: none;
+    margin-right: 1rem;
+  }
+  
+  .home-main {
+    padding: 1rem;
+  }
+
+  
